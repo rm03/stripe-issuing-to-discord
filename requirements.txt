@@ -1,0 +1,6 @@
+stripe
+requests
+flask
+datetime
+pytz
+gunicorn

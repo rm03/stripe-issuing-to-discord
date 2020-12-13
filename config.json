@@ -1,0 +1,6 @@
+{
+    "stripe_api_key": "",
+    "stripe_webhook_secret": "",
+    "authorization_decline_webhook": "",
+    "reversal_capture_webhook": ""
+}
