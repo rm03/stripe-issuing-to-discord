@@ -4,7 +4,7 @@ from datetime import datetime
 from pytz import timezone
 
 with open("config.json") as c:
-    config = json.load("c")
+    config = json.load(c)
 
 API_KEY=config['stripe_api_key']
 WH_SEC=config['stripe_webhook_secret']
